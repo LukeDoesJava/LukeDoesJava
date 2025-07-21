@@ -1,16 +1,96 @@
-## Hi there 👋
+# 🧑‍💻 Luke Edwards
 
-<!--
-**LukeDoesJava/LukeDoesJava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Full Stack Developer / Co-Founder @ Krumbz / Computer Science w/honours @ UVIC`**
 
-Here are some ideas to get you started:
+Hi there! I'm a Computer Science Honours student at the University of Victoria and a full-stack developer who thrives at the intersection of **community**, **technology**, and **meaningful impact**. I love building platforms that solve real-world problems—whether it's helping people cook smarter, manage online events, or develop scalable systems with real users.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of my code lives on Github, but I also work on plenty of things I can't show. Check out more of my professional work and design experiments at [lukepe.com](https://lukepe.com).
+
+<p align="left">
+  <a href="https://github.com/LukeDoesJava?tab=followers">
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/LukeDoesJava?color=blue&labelColor=2e3a59&style=for-the-badge&label=Follow&logo=person-add&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luke-edwards-670181270/">
+    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:luke0edwardss@gmail.com">
+    <img alt="email" title="Email Me" src="https://custom-icon-badges.demolab.com/badge/-Email-white?style=for-the-badge&logo=gmail&logoColor=red"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Redux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
+
+<br />
+<br />
+
+---
+
+### 🚀 Featured Projects
+
+#### 🥘 [Krumbz](https://github.com/LukeDoesJava)
+> An AI-powered mobile app that helps you turn what's in your fridge into a meal.  
+Built with React Native, Google Gemini Vision API, TypeScript, and Python.
+
+- 📸 Image-to-text parsing for ingredient recognition
+- 🧠 Custom recipe recommendation algorithm
+- 🍳 Unit conversion and cookware-based filtering
+- ⚙️ TypeScript, React, Python, Selenium, Figma
+
+#### 🛡️ [Damage Inc.](https://github.com/LukeDoesJava)
+> A full-stack web app for managing one of the largest competitive gaming Discords.
+
+- 📅 Event hosting and attendance tracking
+- 🧾 Reputation system tied to Discord activity
+- ⚙️ TypeScript, React, Express, PostgreSQL, Discord OAuth
+
+#### 🎥 [Mock Movie Ticketing System](https://github.com/LukeDoesJava)
+> Simulated theater network using Java Sockets, Threads, and OOP design patterns.
+
+---
+
+### 📊 GitHub Stats
+
+![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukeDoesJava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+<!-- Optional streak card -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=LukeDoesJava&theme=tokyonight&hide_border=true) -->
+
+---
+
+### 📚 About Me
+
+- 🎓 B.Sc. in Computer Science, University of Victoria (Honours in Software Systems)
+- 🔍 Passionate about building tools that help people solve real-life problems
+- 🧩 Interested in cloud architecture, GIS systems, and platform-scale engineering
+- 🕹️ Contributor to UVic Formula Racing’s EV control software
+- 🗣️ Fluent in English and French | DELF Certified
+
+---
+
+### 💬 Let's Connect!
+
+- Portfolio: [lukepe.com](https://lukepe.com)  
+- GitHub: [@LukeDoesJava](https://github.com/LukeDoesJava)  
+- LinkedIn: [Luke Edwards](https://linkedin.com/in/luke-edwards-670181270)  
+- Email: [luke0edwardss@gmail.com](mailto:luke0edwardss@gmail.com)
+
+---
