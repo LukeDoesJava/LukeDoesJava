@@ -2,7 +2,7 @@
 
 **`Frontend Developer @ dmginc.gg / Co-Founder @ Krumbz / Computer Science w/honours @ UVIC`**
 
-Hi there! I'm a Computer Science Honours student at the University of Victoria and a full-stack developer who thrives at the intersection of **community**, **technology**, and **meaningful impact**. I love building platforms that solve real-world problems—whether it's helping people cook smarter, manage online events, or develop scalable systems with real users.
+Hi there! I'm a Computer Science Honours student at the University of Victoria and a full-stack developer who likes to dabble in different parts of software development. I love building platforms that solve real-world problems—whether it's helping people cook smarter, manage online events, or develop scalable systems with real users.
 
 Some of my code lives on Github, but I also work on plenty of things I can't show. Check out more of my professional work and design experiments at [lukepe.com](https://lukepe.com).
 
