@@ -76,7 +76,7 @@ Built with React Native, Google Gemini Vision API, TypeScript, and Python.
 
 ---
 
-### 📚 About Me
+### 📚 More About Me
 
 - 🎓 B.Sc. in Computer Science, University of Victoria (Honours in Software Systems)
 - 🔍 Passionate about building tools that help people solve real-life problems
@@ -86,7 +86,7 @@ Built with React Native, Google Gemini Vision API, TypeScript, and Python.
 
 ---
 
-### 💬 Let's Connect!
+### If you read this far, I would love to chat more :^)
 
 - Portfolio: [lukepe.com](https://lukepe.com)  
 - GitHub: [@LukeDoesJava](https://github.com/LukeDoesJava)  
