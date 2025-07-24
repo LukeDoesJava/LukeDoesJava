@@ -46,7 +46,7 @@ Some of my code lives on Github, but I also work on plenty of things I can't sho
 
 ### 🚀 Featured Projects
 
-#### 🥘 [Krumbz]([https://lukepe.com/krumbz](https://www.lukepe.com/project/krumbz))
+#### 🥘 [Krumbz]([[https://lukepe.com/krumbz](https://www.lukepe.com/project/krumbz)](https://www.lukepe.com/project/krumbz))
 > An AI-powered mobile app that helps you turn what's in your fridge into a meal.  
 Built with React Native, Google Gemini Vision API, TypeScript, and Python.
 
@@ -55,7 +55,7 @@ Built with React Native, Google Gemini Vision API, TypeScript, and Python.
 - 🍳 Unit conversion and cookware-based filtering
 - ⚙️ TypeScript, React, Python, Selenium, Figma
 
-#### 🛡️ [Damage Inc.]([https://github.com/LukeDoesJava](https://www.lukepe.com/project/dmginc))
+#### 🛡️ [Damage Inc.]([[https://github.com/LukeDoesJava](https://www.lukepe.com/project/dmginc)](https://www.lukepe.com/project/dmginc))
 > A full-stack web app for managing one of the largest competitive gaming Discords.
 
 - 📅 Event hosting and attendance tracking
