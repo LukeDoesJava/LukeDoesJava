@@ -20,7 +20,7 @@ Some of my code lives on Github, but I also work on plenty of things I can't sho
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -46,23 +46,23 @@ Some of my code lives on Github, but I also work on plenty of things I can't sho
 
 ### 🚀 Featured Projects
 
-#### 🥘 [Krumbz]([[https://lukepe.com/krumbz](https://www.lukepe.com/project/krumbz)](https://www.lukepe.com/project/krumbz))
+#### [Krumbz]([[https://lukepe.com/krumbz](https://www.lukepe.com/project/krumbz)](https://www.lukepe.com/project/krumbz))
 > An AI-powered mobile app that helps you turn what's in your fridge into a meal.  
 Built with React Native, Google Gemini Vision API, TypeScript, and Python.
 
-- 📸 Image-to-text parsing for ingredient recognition
-- 🧠 Custom recipe recommendation algorithm
-- 🍳 Unit conversion and cookware-based filtering
-- ⚙️ TypeScript, React, Python, Selenium, Figma
+- Image-to-text parsing for ingredient recognition
+- Custom recipe recommendation algorithm
+- Unit conversion and cookware-based filtering
+- ⚙TypeScript, React, Python, Selenium, Figma
 
-#### 🛡️ [Damage Inc.]([[https://github.com/LukeDoesJava](https://www.lukepe.com/project/dmginc)](https://www.lukepe.com/project/dmginc))
+#### [Damage Inc.]([[https://github.com/LukeDoesJava](https://www.lukepe.com/project/dmginc)](https://www.lukepe.com/project/dmginc))
 > A full-stack web app for managing one of the largest competitive gaming Discords.
 
-- 📅 Event hosting and attendance tracking
-- 🧾 Reputation system tied to Discord activity
-- ⚙️ TypeScript, React, Express, PostgreSQL, Discord OAuth
+- Event hosting and attendance tracking
+- Reputation system tied to Discord activity
+- ⚙TypeScript, React, Express, PostgreSQL, Discord OAuth
 
-#### 🎥 [Mock Movie Ticketing System](https://github.com/LukeDoesJava)
+#### [Mock Movie Ticketing System](https://github.com/LukeDoesJava)
 > Simulated theater network using Java Sockets, Threads, and OOP design patterns.
 
 ---
@@ -78,11 +78,11 @@ Built with React Native, Google Gemini Vision API, TypeScript, and Python.
 
 ### 📚 More About Me
 
-- 🎓 B.Sc. in Computer Science, University of Victoria (Honours in Software Systems)
-- 🔍 Passionate about building tools that help people solve real-life problems
-- 🧩 Interested in cloud architecture, GIS systems, and platform-scale engineering
-- 🕹️ Contributor to UVic Formula Racing’s EV control software
-- 🗣️ Fluent in English and French | DELF Certified
+- B.Sc. in Computer Science, University of Victoria (Honours in Software Systems)
+- Passionate about building tools that help people solve real-life problems
+- Interested in cloud architecture, GIS systems, and platform-scale engineering
+- Contributor to UVic Formula Racing’s EV control software
+- Fluent in English and French | DELF Certified
 
 ---
 
