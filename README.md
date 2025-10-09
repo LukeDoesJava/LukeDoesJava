@@ -1,4 +1,4 @@
-# 🧙 Luke Edwards
+# 🧙 Luke Edwards 
 
 **`Frontend Developer @ dmginc.gg / Co-Founder @ Krumbz / Computer Science w/honours @ UVIC`**
 
@@ -44,7 +44,7 @@ Some of my code lives on Github, but I also work on plenty of things I can't sho
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 #### [Krumbz]([[https://lukepe.com/krumbz](https://www.lukepe.com/project/krumbz)](https://www.lukepe.com/project/krumbz))
 > An AI-powered mobile app that helps you turn what's in your fridge into a meal.  
@@ -67,16 +67,7 @@ Built with React Native, Google Gemini Vision API, TypeScript, and Python.
 
 ---
 
-### 📊 GitHub Stats
-
-![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukeDoesJava&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-<!-- Optional streak card -->
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=LukeDoesJava&theme=tokyonight&hide_border=true) -->
-
----
-
-### 📚 More About Me
+### More About Me
 
 - B.Sc. in Computer Science, University of Victoria (Honours in Software Systems)
 - Passionate about building tools that help people solve real-life problems
