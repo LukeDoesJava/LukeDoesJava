@@ -1,6 +1,6 @@
 # 🧙 Luke Edwards 
 
-**`Frontend Developer @ dmginc.gg / Co-Founder @ Krumbz / Computer Science w/honours @ UVIC`**
+** `Co-Founder @ Krumbz / Computer Science w/honours @ UVIC`**
 
 Hi there! I'm a Computer Science Honours student at the University of Victoria and a full-stack developer who likes to dabble in different parts of software development. My passion is building platforms that bring people together, making memorable user experiences, and make people's lives a little more fun. 
 
