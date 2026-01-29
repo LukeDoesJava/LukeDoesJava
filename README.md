@@ -1,10 +1,10 @@
 # 🧙 Luke Edwards 
 
-** `Co-Founder @ Krumbz / Computer Science w/honours @ UVIC`**
+`Co-Founder @ Krumbz / Computer Science w/honours @ UVIC`
 
-Hi there! I'm a Computer Science Honours student at the University of Victoria and a full-stack developer who likes to dabble in different parts of software development. My passion is building platforms that bring people together, making memorable user experiences, and make people's lives a little more fun. 
+Computer Science Honours student at the University of Victoria and a full-stack developer who likes to dabble in different parts of software development.
 
-Some of my code lives on Github, but I also work on plenty of things I can't show. Check out more of my professional work and design experiments at [lukepe.com](https://lukepe.com).
+Some of my code lives on Github, but I also work on plenty of things I can't show here. Check out more of my professional work and design experiments at [lukepe.com](https://lukepe.com).
 
 <p align="left">
   <a href="https://github.com/LukeDoesJava?tab=followers">
